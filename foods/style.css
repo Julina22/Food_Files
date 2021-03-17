@@ -1,0 +1,203 @@
+*{
+  width: 100%;
+  text-align: center;
+  padding-top: 0.9%;
+  
+
+}
+body{
+       
+       margin: 0;
+      padding: 0;
+      overflow: hidden;
+      height: 100%; 
+      max-height: 100%; 
+      font-family:Sans-serif;
+      line-height: 1.5em;
+       background-color: darkgray;
+     
+
+
+    
+
+
+    }
+
+    main {
+      position: fixed;
+      top: 60px; /* Set this to the height of the header */
+      bottom: 50px; /* Set this to the height of the footer */
+      left: 230px; 
+      right: 0;
+      overflow: auto;
+
+
+    
+    }
+    .w3-text-green{
+      color: red;
+      font-family:cursive;
+      text-align: center;
+      font-family: sans-serif;
+      font-size: 30px;
+    }
+    select{
+      color: red;
+      font-family:cursive;
+      text-align: center;
+      font-size: 10px;
+      border: 2px solid black;
+      width: 250px;
+      height: 30px
+      background-color: #6495ED;
+      border-radius: 20px;
+      color: white;
+      font-family: "Times New Roman";
+      background-size:50px;
+      padding: 3px;
+      text-align: center;
+
+
+
+    }
+    option{
+      color: white;
+      text-align: center;
+      font-family: sans-serif;
+      font-size: 15px;
+      background-color: black;
+      
+    }
+    {
+      width: 100px;
+      float: left;;
+      padding-top: 20px;
+      text-align: center;
+    }
+    .dessert{
+      width: 350px;
+      padding: 50px 25px;
+      margin:  8px 0;
+      border: 10px double aqua ;
+      border-radius:  15px 15px  15px 15px;
+      box-sizing: border-box;;
+      display: inline-block;
+      background: url(dessert.jpeg);
+      font-style: bold;
+      font-family: sans-serif;
+      
+    }
+      .dessert h1{
+        text-align: center;
+        color: black;
+        font-style: bold;
+        font-family: sans-serif;
+
+
+      }
+    .dessert select{
+      background-color: darkgray;
+      color: white;
+      padding: 16px 20px;
+      margin: 1px 0;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      color:  black;
+      opacity: 1%;
+      font-style: bold;
+      text-align: center;
+    }
+    .app{
+      width: 350px;
+      padding: 50px 25px;
+      margin:  8px 0;
+       border: 10px double red ;
+      border-radius:  15px 15px  15px 15px;
+      box-sizing: border-box;;
+      display: inline-block;
+      background: url(app.jpeg);
+      font-style: bold;
+      font-family: sans-serif;
+      
+    }
+      .app h1{
+        text-align: center;
+        color: black;
+        font-style: bold;
+        font-family: sans-serif;
+
+
+      }
+    .app select{
+      background-color: darkgray;
+      color: white;
+      padding: 16px 20px;
+      margin: 1px 0;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      color:  black;
+      opacity: 1%;
+      font-style: bold;
+      text-align: center;
+    }
+    .main{
+      width: 350px;
+      padding: 50px 25px;
+      margin:  8px 0;
+       border: 10px double yellow ;
+      border-radius:  15px 15px  15px 15px;
+      box-sizing: border-box;;
+      display: inline-block;
+      background: url(main.jpeg);
+      font-style: bold;
+      font-family: sans-serif;
+      
+    }
+      .main h1{
+        text-align: center;
+        color: black;
+        font-style: bold;
+        font-family: sans-serif;
+
+
+      }
+    .main select{
+      background-color: darkgray;
+      color: white;
+      padding: 16px 20px;
+      margin: 1px 0;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      color:  black;
+      opacity: 1%;
+      font-style: bold;
+      text-align: center;
+    }
+    .POP{
+      background-color: gray;
+      font-size: 15px;
+      opacity: 10%;
+      width: 70%;
+      
+    }
+    .inner{
+      color: black;
+      font-size: 30px;
+      width: 25%;
+      font-family: bold;
+      font-style: 'Times New Roman';
+      border: 2px solid darkblue ;
+      border-radius:  15px 15px  15px 15px;
+      background-color: gray;
+
+
+    }
+    .dis{
+      color: black;
+      font-family: serif;
+      font-size: 23px;
+      text-shadow: 2px 2px 1px white;
+    }
